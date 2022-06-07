@@ -11,8 +11,8 @@ export default function Header() {
       </Navbar.Brand>
       <Nav className="me-auto">
         <Nav.Link href="#home">Home</Nav.Link>
-        <Nav.Link href="#features">Skill</Nav.Link>
-        <Nav.Link href="#pricing">Contact</Nav.Link>
+        <Nav.Link href="#skill">Skill</Nav.Link>
+        <Nav.Link href="#contact">Contact</Nav.Link>
       </Nav>
     </Navbar>
   );

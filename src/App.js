@@ -48,11 +48,13 @@ function App() {
         </Row>
       </div>
       <TextBlock title={me[3].title} content={me[3].text}></TextBlock>
-      <div className="bottomSpace">
+      <div className="bottomSpace" id="skill">
         <Skill></Skill>
       </div>
       <TextBlock title={me[4].title} content={me[4].text}></TextBlock>
-      <Contact></Contact>
+      <div id="contact">
+        <Contact></Contact>
+      </div>
     </Container>
   );
 }
