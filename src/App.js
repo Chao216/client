@@ -26,9 +26,7 @@ function App() {
         <Foto path="./images/wuzhen.jpeg" alt="a photo of wuzhen"></Foto>
       </div>
 
-      <TextBlock title={me[1].title} content={me[1].text}>
-        >
-      </TextBlock>
+      <TextBlock title={me[1].title} content={me[1].text}></TextBlock>
       <div className="bottomSpace">
         <SlideShow></SlideShow>
       </div>
