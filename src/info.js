@@ -68,6 +68,7 @@ const skill = [
   { path: "images/bootstrap-5-1.svg", alt: "bootstrap" },
   { path: "images/python.svg", alt: "python" },
   { path: "images/nodejs.svg", alt: "node" },
+  { path: "images/typescript.svg", alt: "typescript" },
 ];
 
 const contact = [
