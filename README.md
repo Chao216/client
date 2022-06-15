@@ -7,3 +7,5 @@ different parts of the page are divided into several React Components inside the
 Carousl and Card realized by using BootStrap classes. 
 
 infomation (such as text) are stored in a `info.js` file, and used via JS `array.map()` method.
+
+![my page](./public/Screenshot\ from\ 2022-06-16\ 01-18-31.png)
