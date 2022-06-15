@@ -8,4 +8,4 @@ Carousl and Card realized by using BootStrap classes.
 
 infomation (such as text) are stored in a `info.js` file, and used via JS `array.map()` method.
 
-![my page](./public/Screenshot\ from\ 2022-06-16\ 01-18-31.png)
+![my page](./public/images/mypage.png)
